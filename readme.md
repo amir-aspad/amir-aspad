@@ -11,8 +11,6 @@
 
 ---
 
-### 🧠 About Me | درباره من
-
 ## 📖 About Me | درباره من
 
 > Hi! I am a passionate Python developer with a keen interest in Django.  
