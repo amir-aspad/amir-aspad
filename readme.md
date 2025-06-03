@@ -9,29 +9,29 @@
 
 ### 🧠 About Me | درباره من
 
-> I love building clean, scalable web applications.  
-> I enjoy learning new technologies and sharing what I learn with others.  
-> I'm currently focused on Django, REST APIs, and Linux-based development.
+## 📖 About Me | درباره من
 
-> من عاشق ساخت اپلیکیشن‌های وب تمیز و قابل گسترش هستم.  
-> از یادگیری تکنولوژی‌های جدید لذت می‌برم و دانسته‌هام رو با دیگران به اشتراک می‌ذارم.  
-> در حال حاضر روی Django، API نویسی و تمرکز دارم.
+> Hi! I am a passionate Python developer with a keen interest in Django.  
+> Currently, I teach programming at educational centers and actively work on real-world projects to enhance my skills.  
+> I love sharing knowledge and helping others grow in the tech community.
+
+> سلام! من برنامه‌نویس پایتون هستم و علاقه زیادی به جنگو دارم.  
+> در حال حاضر، در مراکز آموزشی به تدریس برنامه‌نویسی مشغولم و همزمان روی پروژه‌های عملی کار می‌کنم تا مهارت‌هایم را ارتقا دهم.  
+> از به اشتراک گذاشتن دانش و کمک به رشد دیگران در جامعه فناوری بسیار لذت می‌برم.
 
 ---
 
 ### 🛠 Skills | مهارت‌ها
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <br/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /><br/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -43,19 +43,19 @@
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amir-aspad&show_icons=true&theme=radical" alt="GitHub Stats" />
 
   <!-- Most Used Languages -->
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir-aspad&layout=compact&theme=radical" alt="Top Languages" />
 
   <!-- GitHub Streaks -->
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amir-aspad&theme=radical" alt="GitHub Streak" />
 
   <!-- GitHub Contribution Graph (optional but fancy) -->
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amir-aspad&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 ---
